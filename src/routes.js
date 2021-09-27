@@ -29,11 +29,11 @@ function App() {
   return (
     <NoteContextProvider>
       <UserContextProvider>
-        <ExpoStatusBar style="light" backgroundColor="#252525" />
+        <ExpoStatusBar style="light" backgroundColor="#064B46" />
         <NavigationContainer>
           <Stack.Navigator
             screenOptions={{ headerShown: false }}
-            initialRouteName="NotePreload"
+            initialRouteName="Login"
           >
             <Stack.Screen name="NotePreload" component={NotePreload} />
             <Stack.Screen name="Note" component={Note} />

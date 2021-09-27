@@ -23,6 +23,20 @@
 
 ## WhatsApp Chat
 
+## Funcionalidades
+
+- [x] Listar Conversas
+- [x] Listar Usuários
+- [x] Iniciar Nova Conversa
+- [x] Enviar Emojis
+- [x] Enviar Mensagens
+- [x] Filtrar Usuários
+- [x] Notificações
+
+# Iniciar uma conversa | Notificação | Emojis
+
+![myImage](https://media.giphy.com/media/KvsLY5Felw7w54XFmf/giphy.gif) ![myImage](https://media.giphy.com/media/wehOJJ1qstcPqUGpMo/giphy.gif) ![myImage](https://media.giphy.com/media/vLLB0QJw19bPZvTgtv/giphy.gif)
+
 ## Dependências dos projetos
 
 - **Styled-Components**
@@ -36,3 +50,7 @@
 - **expo-notifications**
 
 - **firebase**
+
+## Sobre
+
+Valcinei Junior – [@valcineiJr](https://github.com/ValcineiJr) – valcineifurtadotrab@gmail.com
