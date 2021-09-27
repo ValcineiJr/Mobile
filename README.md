@@ -25,13 +25,9 @@
 - [x] Pesquisar Notas
 - [xx] Salvar Nota Localmente
 
-# Adicionar Nota
+# Adicionar Nota | # Editar Nota
 
-![myImage](https://media.giphy.com/media/wCKxS9Byd2FYQMVg0y/giphy.gif)
-
-# Editar Nota
-
-![myImage](https://media.giphy.com/media/axdIlnXooZvSAxyYTP/giphy.gif)
+![myImage](https://media.giphy.com/media/wCKxS9Byd2FYQMVg0y/giphy.gif) ![myImage](https://media.giphy.com/media/axdIlnXooZvSAxyYTP/giphy.gif)
 
 # zap
 
