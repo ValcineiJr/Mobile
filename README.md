@@ -23,11 +23,15 @@
 - [x] Remover Nota
 - [x] Visualizar Nota
 - [x] Pesquisar Notas
-- [x] Salvar Nota Localmente
+- [xx] Salvar Nota Localmente
 
 # Adicionar Nota
 
 ![myImage](https://media.giphy.com/media/wCKxS9Byd2FYQMVg0y/giphy.gif)
+
+# Editar Nota
+
+![myImage](https://media.giphy.com/media/axdIlnXooZvSAxyYTP/giphy.gif)
 
 # zap
 
