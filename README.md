@@ -2,18 +2,10 @@
 
 > Repositório feito para mostrar minhas habilidades como desenvolvedor
 
-- [Note App](#note)
-- [Whatsapp Chat](#zap)
+- [Note App](#Note-App)
+- [Whatsapp Chat](#WhatsApp-Chat)
 
-# note
-
-## Dependências
-
-- **Styled-Components**
-
-- **Async-Storage**
-
-- **react-navigation**
+## Note App
 
 ## Funcionalidades
 
@@ -22,16 +14,16 @@
 - [x] Editar Nota
 - [x] Remover Nota
 - [x] Visualizar Nota
-- [x] Pesquisar Notas
-- [xx] Salvar Nota Localmente
+- [ ] Pesquisar Notas
+- [x] Salvar Nota Localmente
 
 # Adicionar Nota | Editar Nota | Remover Nota
 
 ![myImage](https://media.giphy.com/media/wCKxS9Byd2FYQMVg0y/giphy.gif) ![myImage](https://media.giphy.com/media/axdIlnXooZvSAxyYTP/giphy.gif) ![myImage](https://media.giphy.com/media/Qk9m7xS9gnC8xeKArS/giphy.gif)
 
-# zap
+## WhatsApp Chat
 
-## Dependências
+## Dependências dos projetos
 
 - **Styled-Components**
 
