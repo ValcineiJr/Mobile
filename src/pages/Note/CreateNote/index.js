@@ -19,18 +19,18 @@ const CreateNote = () => {
   const [notes, setNotes] = useState([]);
 
   const months = [
-    "Janeiro",
-    "Fevereiro",
-    "Março",
-    "Abril",
-    "Maio",
-    "Junho",
-    "Julho",
-    "Agosto",
-    "Setembro",
-    "Outubro",
-    "Novembro",
-    "Dezembro",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
   ];
 
   useEffect(() => {
@@ -91,7 +91,7 @@ const CreateNote = () => {
         value={note}
         onChangeText={(t) => setNote(t)}
         placeholderTextColor="#fff"
-        placeholder="Digite alguma coisa..."
+        placeholder="Type something..."
         multiline
       />
     </Container>

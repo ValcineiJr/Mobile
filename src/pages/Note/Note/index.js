@@ -27,18 +27,18 @@ const Note = () => {
   const [title, setTitle] = useState(data.title);
   const [note, setNote] = useState(data.note);
   const months = [
-    "Janeiro",
-    "Fevereiro",
-    "Março",
-    "Abril",
-    "Maio",
-    "Junho",
-    "Julho",
-    "Agosto",
-    "Setembro",
-    "Outubro",
-    "Novembro",
-    "Dezembro",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
   ];
 
   const deleteNote = async () => {
@@ -140,7 +140,7 @@ const Note = () => {
             <NoteInput
               placeholderTextColor="#fff"
               multiline
-              placeholder="Digite alguma coisa..."
+              placeholder="Type something..."
               value={note}
               onChangeText={(t) => setNote(t)}
             />

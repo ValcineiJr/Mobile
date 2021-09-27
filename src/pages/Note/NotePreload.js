@@ -3,6 +3,7 @@ import { Text } from "react-native";
 import NetInfo from "@react-native-community/netinfo";
 import { NoteContext } from "../../contexts/NoteContext";
 import { useNavigation } from "@react-navigation/core";
+import ExpoStatusBar from "expo-status-bar/build/ExpoStatusBar";
 
 // import { Container } from './styles';
 
@@ -27,7 +28,7 @@ const NotePreload = () => {
     });
   }, []);
 
-  return <Text>{state.online ? "Conectado" : "Sem"}</Text>;
+  return <ExpoStatusBar style="light" backgroundColor="#ff3" />;
 };
 
 export default NotePreload;
